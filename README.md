@@ -28,19 +28,19 @@ To run the Weather App locally on your machine, follow these steps:
 2.	Open the project directory: cd SkyCast
 
 3.	Obtain an API key from OpenWeatherMap:
-•	Visit the OpenWeatherMap website and create an account.
-•	Generate a free API key for accessing weather data.
-•	Copy the API key for use in the application.
+-	Visit the OpenWeatherMap website and create an account.
+-	Generate a free API key for accessing weather data.
+-	Copy the API key for use in the application.
 
 4.	Update the API key:
-•	Open the script.js file in a text editor.
-•	Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key.
+-	Open the script.js file in a text editor.
+-	Replace 'API_KEY' with your actual OpenWeatherMap API key.
 
 5.	Launch the application: Open the index.html file in a web browser
 
 6.	Enter a location:
-•	Type the name of a city or a specific location in the input field.
-•	Click the "Search" button to fetch and display the weather information.
+-	Type the name of a city or a specific location in the input field.
+-	Click the "Search" button to fetch and display the weather information.
 
 ## Technologies Used
 HTML CSS JavaScript
